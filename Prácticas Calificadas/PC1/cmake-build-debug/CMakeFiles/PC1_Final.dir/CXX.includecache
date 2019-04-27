@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christianledgard/Documents/POOII/PC/PC1_Final/Frecuencia.cpp
+iostream
+-
+fstream
+-
+string
+-
+map
+-
+iomanip
+-
+List.cpp
+/Users/christianledgard/Documents/POOII/PC/PC1_Final/List.cpp
+
+/Users/christianledgard/Documents/POOII/PC/PC1_Final/List.cpp
+iostream
+-
+string
+-
+
+/Users/christianledgard/Documents/POOII/PC/PC1_Final/main.cpp
+iostream
+-
+Frecuencia.cpp
+/Users/christianledgard/Documents/POOII/PC/PC1_Final/Frecuencia.cpp
+

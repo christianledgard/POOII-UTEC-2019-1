@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo con .h/Cuadrado.h
+Figura.h
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo con .h/Figura.h
+
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo con .h/Cubo.cpp
+Cubo.h
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo con .h/Cubo.h
+
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo con .h/Cubo.h
+Figura.h
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo con .h/Figura.h
+Cuadrado.h
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo con .h/Cuadrado.h
+
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo con .h/Figura.h
+iostream
+-
+
