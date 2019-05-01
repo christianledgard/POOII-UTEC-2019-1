@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo/Circulo.cpp
+Figura.cpp
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo/Figura.cpp
+cmath
+-
+
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo/Cuadrado.cpp
+Figura.cpp
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo/Figura.cpp
+
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo/Figura.cpp
+iostream
+-
+
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo/main.cpp
+iostream
+-
+Circulo.cpp
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo/Circulo.cpp
+Cuadrado.cpp
+/Users/christianledgard/Documents/POOII/Herencia y Polimorfismo/Cuadrado.cpp
+
