@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/Ejemplo Simple.cpp
+/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/Ejercicio 1.cpp
 iostream
+-
+cmath
 -
 

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/Ejemplo Simple.cpp" "/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/Ejemplo_Simple.cpp.o"
+  "/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/Ejercicios.cpp" "/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

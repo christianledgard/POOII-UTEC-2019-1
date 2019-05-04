@@ -123,32 +123,32 @@ Templates_Primera_Clase/fast:
 	$(MAKE) -f CMakeFiles/Templates_Primera_Clase.dir/build.make CMakeFiles/Templates_Primera_Clase.dir/build
 .PHONY : Templates_Primera_Clase/fast
 
-Ejemplo_Simple.o: Ejemplo_Simple.cpp.o
+Ejercicios.o: Ejercicios.cpp.o
 
-.PHONY : Ejemplo_Simple.o
+.PHONY : Ejercicios.o
 
 # target to build an object file
-Ejemplo_Simple.cpp.o:
-	$(MAKE) -f CMakeFiles/Templates_Primera_Clase.dir/build.make CMakeFiles/Templates_Primera_Clase.dir/Ejemplo_Simple.cpp.o
-.PHONY : Ejemplo_Simple.cpp.o
+Ejercicios.cpp.o:
+	$(MAKE) -f CMakeFiles/Templates_Primera_Clase.dir/build.make CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.o
+.PHONY : Ejercicios.cpp.o
 
-Ejemplo_Simple.i: Ejemplo_Simple.cpp.i
+Ejercicios.i: Ejercicios.cpp.i
 
-.PHONY : Ejemplo_Simple.i
+.PHONY : Ejercicios.i
 
 # target to preprocess a source file
-Ejemplo_Simple.cpp.i:
-	$(MAKE) -f CMakeFiles/Templates_Primera_Clase.dir/build.make CMakeFiles/Templates_Primera_Clase.dir/Ejemplo_Simple.cpp.i
-.PHONY : Ejemplo_Simple.cpp.i
+Ejercicios.cpp.i:
+	$(MAKE) -f CMakeFiles/Templates_Primera_Clase.dir/build.make CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.i
+.PHONY : Ejercicios.cpp.i
 
-Ejemplo_Simple.s: Ejemplo_Simple.cpp.s
+Ejercicios.s: Ejercicios.cpp.s
 
-.PHONY : Ejemplo_Simple.s
+.PHONY : Ejercicios.s
 
 # target to generate assembly for a file
-Ejemplo_Simple.cpp.s:
-	$(MAKE) -f CMakeFiles/Templates_Primera_Clase.dir/build.make CMakeFiles/Templates_Primera_Clase.dir/Ejemplo_Simple.cpp.s
-.PHONY : Ejemplo_Simple.cpp.s
+Ejercicios.cpp.s:
+	$(MAKE) -f CMakeFiles/Templates_Primera_Clase.dir/build.make CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.s
+.PHONY : Ejercicios.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Templates_Primera_Clase"
-	@echo "... Ejemplo_Simple.o"
-	@echo "... Ejemplo_Simple.i"
-	@echo "... Ejemplo_Simple.s"
+	@echo "... Ejercicios.o"
+	@echo "... Ejercicios.i"
+	@echo "... Ejercicios.s"
 .PHONY : help
 
 
