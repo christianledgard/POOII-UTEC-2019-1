@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/Ejemplo Simple.cpp
+iostream
+-
+
