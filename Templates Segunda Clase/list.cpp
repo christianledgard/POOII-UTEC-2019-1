@@ -24,12 +24,20 @@ public:
         items = new T[reserved];
     }
 
-    void insert(T item) {
+    void pushBack(T item) {
         if (size == reserved) {
             reserve();
         }
         items[size] = item;
         size++;
+    }
+
+    void insertAt(T item, unsigned int index){
+        pushBack(items[size-1]);
+        for (int i = size-1; i > index; i--) {
+            items[i] = items[i-1];
+        }
+        items[index]=item;
     }
 
     void reserve() {
