@@ -12,12 +12,97 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1782268f-e687-4b3e-9f40-7a65803a3953" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/linked_list.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/.idea/PC2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/Process.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/PC2.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/PC2.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/PC2.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/PC2.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/PC2.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/PC2.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/PC2.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/PC2.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/PC2.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/PC2.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/PC2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/PC2.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prácticas Calificadas/PC2/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/3.14.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/3.14.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/3.14.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/3.14.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/3.14.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/3.14.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/3.14.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/3.14.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/3.14.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/Ejercicio.dir/Biblioteca.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/Ejercicio.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/Ejercicio.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/Ejercicio.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/Ejercicio.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/Ejercicio.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/Ejercicio.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/Ejercicio.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/Ejercicio.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/Ejercicio.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/Ejercicio.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicios con Herencia y Polimorfismo/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Herencia y Polimorfismo.h/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Herencia y Polimorfismo.h/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Herencia y Polimorfismo.h/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Herencia y Polimorfismo.h/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Herencia y Polimorfismo.h/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Herencia y Polimorfismo.h/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Herencia y Polimorfismo.h/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Herencia y Polimorfismo.h/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Templates Primera Clase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates Primera Clase/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates Primera Clase/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates Primera Clase/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/Templates_Primera_Clase.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/Templates_Primera_Clase" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/Templates_Primera_Clase" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/Templates_Primera_Clase.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates Primera Clase/cmake-build-debug/Templates_Primera_Clase.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/list.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,21 +116,21 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+            <state relative-caret-position="551">
+              <caret line="29" column="40" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="40" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -56,21 +141,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/linked_list.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-23">
+            <state relative-caret-position="779">
               <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-              <folding>
-                <element signature="e#106#109#0" expanded="true" />
-                <element signature="e#485#495#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/list.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="374">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="32" />
               <folding>
                 <element signature="e#45#64#0" expanded="true" />
                 <element signature="e#115#150#0" expanded="true" />
@@ -92,18 +173,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/list.cpp" />
         <option value="$PROJECT_DIR$/nodo.cpp" />
         <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/linked_list.cpp" />
+        <option value="$PROJECT_DIR$/list.cpp" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-27" />
-    <option name="y" value="-940" />
-    <option name="width" value="1288" />
-    <option name="height" value="781" />
+    <option name="x" value="160" />
+    <option name="y" value="120" />
+    <option name="width" value="960" />
+    <option name="height" value="583" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -161,7 +242,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557584437731</updated>
-      <workItem from="1557584440351" duration="6564000" />
+      <workItem from="1557584440351" duration="6662000" />
+      <workItem from="1557880460489" duration="2807000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1557585621404</created>
@@ -170,38 +252,44 @@
       <option name="project" value="LOCAL" />
       <updated>1557585621405</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update clase 11/05/2019">
+      <created>1557591112511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557591112511</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6564000" />
+    <option name="totallyTimeSpent" value="9469000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-315" y="-1057" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16506922" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25282714" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="CMake" weight="0.32953367" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.4611399" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5005325" side_tool="true" weight="0.36373058" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946752" visible="true" weight="0.36373058" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.36373058" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.4611399" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" weight="0.36373058" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32953367" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,44 +297,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Update clase 11/05/2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update clase 11/05/2019" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/list.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="e#45#64#0" expanded="true" />
-            <element signature="e#115#150#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linked_list.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-          <folding>
-            <element signature="e#106#109#0" expanded="true" />
-            <element signature="e#485#495#0" expanded="true" />
-          </folding>
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        <state relative-caret-position="551">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="40" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linked_list.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="32" />
+          <folding>
+            <element signature="e#45#64#0" expanded="true" />
+            <element signature="e#115#150#0" expanded="true" />
           </folding>
         </state>
       </provider>

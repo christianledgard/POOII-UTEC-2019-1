@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/christianledgard/Documents/POOII/Ejercicio/Biblioteca.cpp" "/Users/christianledgard/Documents/POOII/Ejercicio/cmake-build-debug/CMakeFiles/Ejercicio.dir/Biblioteca.cpp.o"
+  "/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Ejercicios con Herencia y Polimorfismo/Biblioteca.cpp" "/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Ejercicios con Herencia y Polimorfismo/cmake-build-debug/CMakeFiles/Ejercicio.dir/Biblioteca.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

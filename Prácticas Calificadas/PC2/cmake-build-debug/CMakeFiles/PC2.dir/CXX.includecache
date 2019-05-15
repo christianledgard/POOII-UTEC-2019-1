@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Prácticas Calificadas/PC2/Process.cpp
+iostream
+-
+string
+-
+ctime
+-
+cstdlib
+-
+
+/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Prácticas Calificadas/PC2/main.cpp
+iostream
+-
+Process.cpp
+/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Prácticas Calificadas/PC2/Process.cpp
+

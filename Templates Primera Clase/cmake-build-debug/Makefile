@@ -123,32 +123,32 @@ Templates_Primera_Clase/fast:
 	$(MAKE) -f CMakeFiles/Templates_Primera_Clase.dir/build.make CMakeFiles/Templates_Primera_Clase.dir/build
 .PHONY : Templates_Primera_Clase/fast
 
-Ejercicios.o: Ejercicios.cpp.o
+Plantilla_a_Clases.o: Plantilla_a_Clases.cpp.o
 
-.PHONY : Ejercicios.o
+.PHONY : Plantilla_a_Clases.o
 
 # target to build an object file
-Ejercicios.cpp.o:
-	$(MAKE) -f CMakeFiles/Templates_Primera_Clase.dir/build.make CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.o
-.PHONY : Ejercicios.cpp.o
+Plantilla_a_Clases.cpp.o:
+	$(MAKE) -f CMakeFiles/Templates_Primera_Clase.dir/build.make CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.o
+.PHONY : Plantilla_a_Clases.cpp.o
 
-Ejercicios.i: Ejercicios.cpp.i
+Plantilla_a_Clases.i: Plantilla_a_Clases.cpp.i
 
-.PHONY : Ejercicios.i
+.PHONY : Plantilla_a_Clases.i
 
 # target to preprocess a source file
-Ejercicios.cpp.i:
-	$(MAKE) -f CMakeFiles/Templates_Primera_Clase.dir/build.make CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.i
-.PHONY : Ejercicios.cpp.i
+Plantilla_a_Clases.cpp.i:
+	$(MAKE) -f CMakeFiles/Templates_Primera_Clase.dir/build.make CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.i
+.PHONY : Plantilla_a_Clases.cpp.i
 
-Ejercicios.s: Ejercicios.cpp.s
+Plantilla_a_Clases.s: Plantilla_a_Clases.cpp.s
 
-.PHONY : Ejercicios.s
+.PHONY : Plantilla_a_Clases.s
 
 # target to generate assembly for a file
-Ejercicios.cpp.s:
-	$(MAKE) -f CMakeFiles/Templates_Primera_Clase.dir/build.make CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.s
-.PHONY : Ejercicios.cpp.s
+Plantilla_a_Clases.cpp.s:
+	$(MAKE) -f CMakeFiles/Templates_Primera_Clase.dir/build.make CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.s
+.PHONY : Plantilla_a_Clases.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Templates_Primera_Clase"
-	@echo "... Ejercicios.o"
-	@echo "... Ejercicios.i"
-	@echo "... Ejercicios.s"
+	@echo "... Plantilla_a_Clases.o"
+	@echo "... Plantilla_a_Clases.i"
+	@echo "... Plantilla_a_Clases.s"
 .PHONY : help
 
 

@@ -57,27 +57,27 @@ include CMakeFiles/Templates_Primera_Clase.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Templates_Primera_Clase.dir/flags.make
 
-CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.o: CMakeFiles/Templates_Primera_Clase.dir/flags.make
-CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.o: ../Ejercicios.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.o -c "/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/Ejercicios.cpp"
+CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.o: CMakeFiles/Templates_Primera_Clase.dir/flags.make
+CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.o: ../Plantilla\ a\ Clases.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.o -c "/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/Plantilla a Clases.cpp"
 
-CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/Ejercicios.cpp" > CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.i
+CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/Plantilla a Clases.cpp" > CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.i
 
-CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/Ejercicios.cpp" -o CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.s
+CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/Plantilla a Clases.cpp" -o CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.s
 
 # Object files for target Templates_Primera_Clase
 Templates_Primera_Clase_OBJECTS = \
-"CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.o"
+"CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.o"
 
 # External object files for target Templates_Primera_Clase
 Templates_Primera_Clase_EXTERNAL_OBJECTS =
 
-Templates_Primera_Clase: CMakeFiles/Templates_Primera_Clase.dir/Ejercicios.cpp.o
+Templates_Primera_Clase: CMakeFiles/Templates_Primera_Clase.dir/Plantilla_a_Clases.cpp.o
 Templates_Primera_Clase: CMakeFiles/Templates_Primera_Clase.dir/build.make
 Templates_Primera_Clase: CMakeFiles/Templates_Primera_Clase.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Templates_Primera_Clase"

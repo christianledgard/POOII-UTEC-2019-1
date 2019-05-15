@@ -1,0 +1,3 @@
+/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Segunda Clase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Segunda Clase/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Segunda Clase/cmake-build-debug/CMakeFiles/Templates_Segunda_Clase.dir

@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/Ejercicios.cpp">
+		<Unit filename="/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/Plantilla a Clases.cpp">
 			<Option target="Templates_Primera_Clase"/>
 		</Unit>
 		<Unit filename="/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Primera Clase/CMakeLists.txt">

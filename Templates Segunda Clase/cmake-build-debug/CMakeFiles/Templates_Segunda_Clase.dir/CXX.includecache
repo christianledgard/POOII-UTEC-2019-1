@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Segunda Clase/linked_list.cpp
+iostream
+-
+
+/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Segunda Clase/list.cpp
+iostream
+-
+string
+-
+
+/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Segunda Clase/main.cpp
+iostream
+-
+list.cpp
+/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Segunda Clase/list.cpp
+linked_list.cpp
+/Users/christianledgard/Documents/POOII/POOII-UTEC-2019-1/Templates Segunda Clase/linked_list.cpp
+
